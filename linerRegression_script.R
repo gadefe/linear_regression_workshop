@@ -36,6 +36,13 @@ summary (model1)
 
 attributes(model1)
 
+
+sum1<- summary(model1)
+
+attributes(sum1)
+
+sum1$r.squared
+
 #coefficients
 model1$coefficients
 
