@@ -124,7 +124,7 @@ For the hypothesis test, our p-value equals 0.0001458. This p-value is less than
 
 ![](img/summary2.jpg)
 
-
+## interpretation of the test score
 
 ### The R squared = 95.53% 
 - Height explains 95% of the total variation in Weight
