@@ -80,7 +80,9 @@ More specific form
 ## Simple Linear Regression using R
 
 
-Consider: Heights and Weights of Seven People
+### Consider: Heights and Weights of Seven People
+
+![](img/dataset.jpg)
 
 Given a person’s height, can we
 predict the person’s weight?
