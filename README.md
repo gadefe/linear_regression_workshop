@@ -125,6 +125,10 @@ For the hypothesis test, our p-value equals 0.0001458. This p-value is less than
 ![](img/summary2.jpg)
 
 
+
+The height coefficient in the regression equation is 8.797. This coefficient represents the mean increase of weight in pounds for every additional inches in height. If your height increases by 1 inches, the average weight increases by 8.797 pounds.
+
+
 Consider: Heights and Weights of Seven People
 
 Given a person’s height, can we
