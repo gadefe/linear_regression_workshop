@@ -83,6 +83,9 @@ More specific form
 - Step2: Test for significance using correlation
 
 
+![](img/cortest.jpg)
+
+
 
 Consider: Heights and Weights of Seven People
 
