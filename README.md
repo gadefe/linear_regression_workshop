@@ -125,8 +125,20 @@ For the hypothesis test, our p-value equals 0.0001458. This p-value is less than
 ![](img/summary2.jpg)
 
 
+### Weight = -439 + 8.797 Height
 
-The height coefficient in the regression equation is 8.797. This coefficient represents the mean increase of weight in pounds for every additional inches in height. If your height increases by 1 inches, the average weight increases by 8.797 pounds.
+- If the height increase by 1 inches, the average weight increase by 8.797 pounds.The intercept in not meaningful because Height = 0 would not be observable.
+  
+  
+### The R squared = 95.53% 
+Height explains 95% of the variability in weight
+
+### The p-value
+The model is significant (p<0.05);
+The model significantly fits the data
+
+###  y-intercept and the slope
+The y-intercept and the slope are significant (p < 0.05). Height significantly predicts weight
 
 
 Consider: Heights and Weights of Seven People
