@@ -77,6 +77,10 @@ More specific form
 - Defect = 3.2 + 0.045 (100) = 7.7
 
 
+## Simple Linear Regression using R
+### Test for Significance
+- Step1: Draw the scatter plot diagram
+- Step2: Test for significance using correlation
 
 
 
