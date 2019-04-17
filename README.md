@@ -80,6 +80,9 @@ More specific form
 ## Simple Linear Regression using R
 ### Test for Significance
 - Step1: Draw the scatter plot diagram
+![](img/scatterplot.jpg)
+
+
 - Step2: Test for significance using correlation
 
 
