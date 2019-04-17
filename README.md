@@ -106,6 +106,8 @@ weight?
 ![](img/cortest.jpg)
 
 
+### interpretation of the test score
+
 The correlation test score shows positive association between Height and the Weight variable. As height increases, weight tends to increase. Regarding the strength of the relationship, the test scores shows extremely high relationship where the data points tightly hug a line. Its an entirely amorphous blob with a very high correlation. That description matches an extremely high correlation coefficient of 0.977.
 
 For the hypothesis test, our p-value equals 0.0001458. This p-value is less than any reasonable significance level. Consequently, we can reject the null hypothesis and conclude that the relationship is statistically significant. The sample data support the notion that the relationship between height and weight exists in the population. 
