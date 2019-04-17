@@ -55,7 +55,10 @@ More specific form
 ### Defect = 3.2 + 0.045 Speed
 - Each unit increase in assembly line speed adds an average of 0.045 defects per million. The intercept is not meaningful since zero assembly line speed implies no production at all.
 
-
+## Prediction Using Regression
+### Sales = 268 + 7.37 Ads
+- If the firm spends 10 million on advertising, its expected sales would be 341.7 million, that is,
+  Sales = 268 + 7.37(10) = 341.7.
 
 
 Consider: Heights and Weights of Seven People
