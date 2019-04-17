@@ -98,19 +98,16 @@ weight?
 
 - Step1: Draw the scatter plot diagram
 
-- Step1: Draw the scatter plot diagram
-
-
-
-
 ![](img/scatterplot.jpg)
 
 
 - Step2: Test for significance using correlation
 
-
 ![](img/cortest.jpg)
 
+- Step3: Draw the fitted regression line
+
+![](img/fittedline.jpg)
 
 
 Consider: Heights and Weights of Seven People
