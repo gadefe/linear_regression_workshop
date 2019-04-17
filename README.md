@@ -58,7 +58,26 @@ More specific form
 ## Prediction Using Regression
 ### Sales = 268 + 7.37 Ads
 - If the firm spends 10 million on advertising, its expected sales would be 341.7 million, that is,
-  Sales = 268 + 7.37(10) = 341.7.
+- Sales = 268 + 7.37(10) = 341.7.
+
+### DrugCost = 410 + 550 Dependents
+- If an employee has four dependents, the expected annual drug cost would be 2,610, that is
+- DrugCost = 410 + 550(4) = 2,610.
+
+### Rent = 150 + 1.05 SqFt
+- The expected rent on an 800 square foot apartment is 990, that is
+-  Rent = 150 + 1.05 (800) = 990
+
+### Cost = 15.22 + 19.96 Persons
+- The expected cost of dinner for two couples would be 95.06 pesos, that is,
+- Cost = 15.22 + 19.96 (4) = 95.06
+
+### Defect = 3.2 + 0.045 Speed
+- If 100 units per hour are produced, the expected defect rate is 7.7 defects per million, that is,
+- Defect = 3.2 + 0.045 (100) = 7.7
+
+
+
 
 
 Consider: Heights and Weights of Seven People
