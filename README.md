@@ -127,18 +127,18 @@ For the hypothesis test, our p-value equals 0.0001458. This p-value is less than
 ## interpretation of the test score
 
 ### The R squared = 95.53% 
-- Height explains 95% of the total variation in Weight
+- Height explains 95.53% of the total variation in Weight
 
-### The p-value
+### The p-value = 0.0001458
 - The model is significant (p<0.05), therefore the linear model significantly fits the data
 
-###  y-intercept and the slope
+###  y-intercept = - 439.693 and the slope = 8.797
 - If the height increase by 1 inches, the average weight increase by 8.797 pounds.
 - The y-intercept and the slope are significant (p < 0.05). Height significantly predicts weight
 
 ## Estimated Regression Equation
 
-### Weight = -439 + 8.797 Height
+### Weight = - 439 + 8.797 Height
 - For every unit increase in Height, weight increases on the average by 8.787 pounds. The intercept in not meaningful because Height = 0 would not be observable.
 - Height explains 95% of the total variation in Weight
 
