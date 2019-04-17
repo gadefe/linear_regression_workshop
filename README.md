@@ -79,7 +79,6 @@ More specific form
 
 ## Simple Linear Regression using R
 
-![](datasets/HeightWeightData.txt)
 
 Consider: Heights and Weights of Seven People
 
@@ -91,8 +90,9 @@ relationship between height and
 weight?
 
 
-### Load the data in R
+### Load the data in R using the following command.
 
+![](img/loaddata.jpg)
 
 - Step1: Draw the scatter plot diagram
 
