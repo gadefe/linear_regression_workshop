@@ -109,6 +109,11 @@ weight?
 
 ![](img/fittedline.jpg)
 
+- Step4: Show the statistical summary of the regression model
+
+
+![](img/summary2.jpg)
+
 
 Consider: Heights and Weights of Seven People
 
