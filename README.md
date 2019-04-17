@@ -22,7 +22,7 @@ Example of Hypothesis
 - Assembly line speed predicts number of product defects.
 
 More specific form
-- How much extra sales will be genrated, on average, by a 1 million increase in advertising expendetures?
+- How much extra sales will be generated, on average, by a 1 million increase in advertising expendetures?
   What would expected sales be with no advertising?
   
 - How much do prescription drug cost per employee rise, on average, with each extra dependent?
