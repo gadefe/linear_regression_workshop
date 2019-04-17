@@ -36,6 +36,16 @@ More specific form
 - If the assembly line speed is increase by 20 units per hour, what would happend to the mean number of product defects?
   
  
+## Interpreting a fitted regression
+
+### Sales = 268 + 7.37 Ads
+- Each extra 1 million of advertising will generate 7.37 million of sales on average.
+  The firm would average 268 million of sales with zero advertising. However, the intercept may not be meaningful beacause Ads=0 may be outside the observed data.
+
+
+
+
+
 
 Consider: Heights and Weights of Seven People
 
