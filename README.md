@@ -6,11 +6,11 @@ Definition. Regression is a statistical tool that utilizes the relation
 between two or more quantitative variables so that one variable
 can be predicted from the other(s)
 
-##Two types of Variables
-##1. Dependent variable
+## Two types of Variables
+## 1. Dependent variable
 -response variable, outcome
 -variable we want to predict
-##2. Independent variable
+## 2. Independent variable
 -explanatory variable, predictor variable, regressor
 -the variable(s) used to predict the value of the dependent variable.
 
