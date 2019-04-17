@@ -131,33 +131,14 @@ For the hypothesis test, our p-value equals 0.0001458. This p-value is less than
   
   
 ### The R squared = 95.53% 
-Height explains 95% of the variability in weight
+- Height explains 95% of the variability in weight
+
 
 ### The p-value
-The model is significant (p<0.05);
-The model significantly fits the data
+- The model is significant (p<0.05);The model significantly fits the data
 
 ###  y-intercept and the slope
-The y-intercept and the slope are significant (p < 0.05). Height significantly predicts weight
+- The y-intercept and the slope are significant (p < 0.05). Height significantly predicts weight
 
 
-Consider: Heights and Weights of Seven People
 
-Given a person’s height, can we
-predict the person’s weight?
-
-How can we best describe the
-relationship between height and
-weight?
-
-
-Subject Height
-(inches)
-Weight (lbs)
-1 68 155
-2 61 99
-3 63 115
-4 70 190
-5 69 170
-6 65 125
-7 72 18
