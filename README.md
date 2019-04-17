@@ -43,6 +43,17 @@ More specific form
   The firm would average 268 million of sales with zero advertising. However, the intercept may not be meaningful beacause Ads=0 may be outside the observed data.
 
 
+### DrugCost = 410 + 550 Dependents
+- Each extra dependents raises the mean annual prescription drug cost by 550 pesos. An employee with zero dependents averages 410 pesos in prescription drugs.
+
+### Rent = 150 + 1.05 SqFt
+- Each extra square foot adds 1.05 pesos to monthly apartment rent. The intercept is not meaningful because no apartment can have SqFt = 0.
+
+### Cost = 15.22 + 19.96 Persons
+- Each additional dinner increase the mean dinner cost 19.96 pesos. The intercept in not meaningful because Persons = 0 would not be observable.
+
+### Defect = 3.2 + 0.045 Speed
+- Each unit increase in assembly line speed adds an average of 0.045 defects per million. The intercept is not meaningful since zero assembly line speed implies no production at all.
 
 
 
