@@ -78,8 +78,29 @@ More specific form
 
 
 ## Simple Linear Regression using R
-### Test for Significance
+
+![](datasets/HeightWeightData.txt)
+
+Consider: Heights and Weights of Seven People
+
+Given a person’s height, can we
+predict the person’s weight?
+
+How can we best describe the
+relationship between height and
+weight?
+
+
+### Load the data in R
+
+
 - Step1: Draw the scatter plot diagram
+
+- Step1: Draw the scatter plot diagram
+
+
+
+
 ![](img/scatterplot.jpg)
 
 
