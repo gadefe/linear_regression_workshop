@@ -139,6 +139,6 @@ For the hypothesis test, our p-value equals 0.0001458. This p-value is less than
 ## Estimated Regression Equation
 
 ### Weight = -439 + 8.797 Height
-- For every unit increase in Height, weight increases on the average by 8.8 pounds. The intercept in not meaningful because Height = 0 would not be observable.
+- For every unit increase in Height, weight increases on the average by 8.787 pounds. The intercept in not meaningful because Height = 0 would not be observable.
 - Height explains 95% of the total variation in Weight
 
