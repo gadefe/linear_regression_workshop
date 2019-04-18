@@ -14,6 +14,14 @@ can be predicted from the other(s)
 - explanatory variable, predictor variable, regressor
 - the variable(s) used to predict the value of the dependent variable.
 
+## Linear Regression parameters
+### R squared
+- R-squared is a statistical measure that represents the proportion of the variance for a dependent variable that's explained by an independent variable or variables in a regression model.
+### p-value
+- A p-value directly measures how well the samples agrees with Ho. The smaller the p-value, the stronger is the
+  evidence for rejecting Ho.
+
+
 Example of Hypothesis
 - Advertising expendetures predict quarterly sales.
 - Number of dependents predicts employee prescription drug expenses.
