@@ -154,4 +154,22 @@ For the hypothesis test, our p-value equals 0.0001458. This p-value is less than
 - Weight = -439 + 8.787 (83) = 290
 
 
+## Multiple Linear Regression 
+
+Multiple linear regression (MLR), also known simply as multiple regression, is a statistical technique that uses several explanatory variables to predict the outcome of a response variable. The goal of multiple linear regression (MLR) is to model the linear relationship between the explanatory (independent) variables and response (dependent) variable.
+
+Let’s suppose that we’ve got three variables that we’re interested in; perhaps we want to use Exercise, Stimulant and Low Carb Diet to predict the WeightLoss variable.
+
+### Load the data in R using the following command.
+
+![](img/loaddata.jpg)
+
+- Step1: Draw the pair scatter plot diagram
+
+![](img/scatterplot.jpg)
+
+- Step2: Test for significance using pair correlation
+
+![](img/cortest.jpg)
+
 
