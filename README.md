@@ -1,4 +1,4 @@
-# linear_regression_workshop
+# Data Analytics Linear Regression
 This a simple linear regression using R programming
 
 ## Regression
