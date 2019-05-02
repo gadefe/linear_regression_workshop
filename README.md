@@ -1,5 +1,5 @@
 # Data Analytics Linear Regression
-This a simple linear regression using R programming
+Simple linear regression using R programming
 
 ## Regression
 Definition. Regression is a statistical tool that utilizes the relation
