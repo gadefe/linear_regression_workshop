@@ -162,14 +162,14 @@ Let’s suppose that we’ve got three variables that we’re interested in; per
 
 ### Load the data in R using the following command.
 
-![](img/loaddata.jpg)
+![](img/LoadWeightLossData.jpg)
 
 - Step1: Draw the pair scatter plot diagram
 
-![](img/scatterplot.jpg)
+![](img/PairScatterPlot.jpg)
 
-- Step2: Test for significance using pair correlation
+- Step2: Test for association using pair correlation
 
-![](img/cortest.jpg)
+![](img/PairCorrelation.jpg)
 
 
