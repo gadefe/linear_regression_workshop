@@ -172,4 +172,51 @@ Let’s suppose that we’ve got three variables that we’re interested in; per
 
 ![](img/PairCorrelation.jpg)
 
+- Step3: Create a linear regression model
 
+![](img/mod1MultiRegSummary.jpg)
+
+### interpretation of the regression model1
+
+The model shows a good fit (R-squared = 0.8752) and is significant overall (p-value = 3.2e-09), it shows linear association between WeightLoss and at least one predictor variable. The Exercise and Low Carb Diet have a significant effect on WeightLoss at alfa = 0.05 with a value of (p = 4.98e-07) and (p = 0.00887) respectively. Regarding the Stimulant coeffecient (p = 0.10207) suggest is not statistically significant.
+
+
+- Step4: Generate a linear regression model without the Stimulant
+
+![](img/mod2MultiRegSummary.jpg)
+
+- Step5: Check for collinearity using variance inflation factor (VIF) < 10.
+
+![](img/vifTest.jpg)
+
+- Step5: Check for influential observation using Cook's Distane Measure < 1.
+
+![](img/cooksdist.jpg)
+
+- Step6: Check for normality using Shapiro_Wilk Test
+
+![](img/shapirotest.jpg)
+
+- Step7: Check for equality of variance using Levene's Test
+
+![](img/levenetest.jpg)
+
+- Step4: Generate the final linear regression model
+
+![](img/mod2MultiRegSummary.jpg)
+
+
+### interpretation of the final regression model
+
+The model shows a good fit (R-squared = 0.8752) and is significant overall (p-value = 3.2e-09), it shows linear association between WeightLoss and at least one predictor variable. The Exercise and Low Carb Diet have a significant effect on WeightLoss at alfa = 0.05 with a value of (p = 4.98e-07) and (p = 0.00887) respectively. Regarding the Stimulant coeffecient (p = 0.10207) suggest is not statistically significant.
+
+
+
+
+
+
+
+
+
+
+ 
