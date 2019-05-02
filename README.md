@@ -176,6 +176,8 @@ Let’s suppose that we’ve got three variables that we’re interested in; per
 
 ![](img/mod1MultiRegSummary.jpg)
 
+
+
 ### interpretation of the regression model1
 
 The model shows a good fit (R-squared = 0.8752) and is significant overall (p-value = 3.2e-09), it shows linear association between WeightLoss and at least one predictor variable. The Exercise and Low Carb Diet have a significant effect on WeightLoss at alfa = 0.05 with a value of (p = 4.98e-07) and (p = 0.00887) respectively. Regarding the Stimulant coeffecient (p = 0.10207) suggest is not statistically significant.
@@ -206,10 +208,11 @@ The model shows a good fit (R-squared = 0.8752) and is significant overall (p-va
 ![](img/mod2MultiRegSummary.jpg)
 
 
+### WeightLoss = - 0.7 + 1.1 Exercise + 2.3 LowCarbDiet
+
 ### interpretation of the final regression model
 
-The model shows a good fit (R-squared = 0.8752) and is significant overall (p-value = 3.2e-09), it shows linear association between WeightLoss and at least one predictor variable. The Exercise and Low Carb Diet have a significant effect on WeightLoss at alfa = 0.05 with a value of (p = 4.98e-07) and (p = 0.00887) respectively. Regarding the Stimulant coeffecient (p = 0.10207) suggest is not statistically significant.
-
+The model shows a good fit (R-squared = 0.8568) and is significant overall (p-value = 1.367e-09). Both predictors have a significant effect on WeightLoss at alfa = 0.05, although Exercise (p = 1.08e-06) is a much stronger predictor than Low Carb Diet (p = 0.012). The fitted coefficient of Exercise tells us that, on average, every additional hour of exercise leads to a 1.1 pounds increase in weight loss holding constant low carb diet. And the estimated average weight loss of subject on low carb diet is higher by 2.3 pounds than that of subject not on low carb diet holding exercise constant. Exersise and Low carb Diet can explain about 86% of the total variation in weight loss.
 
 
 
